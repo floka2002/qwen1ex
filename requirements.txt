@@ -1,0 +1,7 @@
+# Greenplum SQL to Excel - Python Dependencies
+# Установка: pip install -r requirements.txt
+
+flask>=2.3.0
+psycopg2-binary>=2.9.0
+pandas>=2.0.0
+openpyxl>=3.1.0
